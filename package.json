@@ -1,0 +1,28 @@
+{
+  "name": "crud-service",
+  "version": "1.0.0",
+  "description": "Create, read, update, delete using typeorm",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathish3sank/crud-service.git"
+  },
+  "keywords": [
+    "Typescript",
+    "typeorm",
+    "react",
+    "sql"
+  ],
+  "author": "Sathish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathish3sank/crud-service/issues"
+  },
+  "homepage": "https://github.com/sathish3sank/crud-service#readme",
+  "dependencies": {
+    "@types/jest": "^25.2.1"
+  }
+}
